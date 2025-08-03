@@ -1,0 +1,2 @@
+# Intelligent-Quadruped-Robot-Locomotion-using-Proximal-Policy-Optimization-Agent.
+Implemented Proximal Policy Optimization (PPO) in Reinforcement Learning using MATLAB to enable stable and efficient movement of a quadruped robot on complex terrains. The approach improves the robot’s control by balancing learning and performance, enhancing stability and adaptability for applications like goods transportation and surveillance.
